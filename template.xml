@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Customer_Data>
+	<Customer>
+          <Customer_ID></Customer_ID>
+          <Customer_Age></Customer_Age>
+          <Customer_Experience></Customer_Experience>
+          <Customer_Income></Customer_Income>
+          <Customer_ZIPCode></Customer_ZIPCode>
+          <Customer_Family></Customer_Family>
+          <Customer_CCAvg></Customer_CCAvg>
+          <Customer_Education></Customer_Education>
+          <Customer_Mortgage></Customer_Mortgage>
+          <Customer_Personal_Loan></Customer_Personal_Loan>
+          <Customer_Securities_Account></Customer_Securities_Account>
+          <Customer_CD_Account></Customer_CD_Account>
+          <Customer_Online></Customer_Online>
+          <Customer_Credit_Card></Customer_Credit_Card>
+    </Customer>       
+    <Customer>
+          <Customer_ID></Customer_ID>
+          <Customer_Age></Customer_Age>
+          <Customer_Experience></Customer_Experience>
+          <Customer_Income></Customer_Income>
+          <Customer_ZIPCode></Customer_ZIPCode>
+          <Customer_Family></Customer_Family>
+          <Customer_CCAvg></Customer_CCAvg>
+          <Customer_Education></Customer_Education>
+          <Customer_Mortgage></Customer_Mortgage>
+          <Customer_Personal_Loan></Customer_Personal_Loan>
+          <Customer_Securities_Account></Customer_Securities_Account>
+          <Customer_CD_Account></Customer_CD_Account>
+          <Customer_Online></Customer_Online>
+          <Customer_Credit_Card></Customer_Credit_Card>
+    </Customer>       
+
+          
+
+</Data>
